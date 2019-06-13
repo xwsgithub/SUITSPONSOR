@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">线下3D量体仓</string>
+    <string name="design">Design</string>
+    <string name="main">MainPage</string>
+    <string name="person">Person</string>
+    <string name="main_choose_ai">智能设计</string>
+    <string name="main_diy_choose">个人设计</string>
+    <string name="main_facetoface_choose">预约设计师</string>
+    <string name="ai_styles_word_show">AI人工智能风格设计</string>
+    <string name="ai_styles_tips">提示：请滑动进度条输入您所需的西服风格偏好。</string>
+    <string name="ai_design">AI设计</string>
+    <string name="fengsang">领袖风尚</string>
+    <string name="_3d">线下3D量体仓量体</string>
+    <string name="liangtishi">量体师上门量体</string>
+</resources>
